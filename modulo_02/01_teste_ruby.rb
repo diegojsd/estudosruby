@@ -1,1 +1,1 @@
-
+puts "Olá curso Rails Diego"
