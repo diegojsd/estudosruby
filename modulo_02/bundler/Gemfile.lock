@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     cnpj_utils (1.2.0)
     correios-cep (0.7.1)
       http (~> 4.0.0)
@@ -25,7 +25,7 @@ GEM
     http_parser.rb (0.6.0)
     lerolero_generator (1.0.1)
     ox (2.10.0)
-    public_suffix (3.0.3)
+    public_suffix (5.0.0)
     titulo_eleitor_utils (1.1.0)
     tty-cursor (0.6.1)
     tty-spinner (0.9.0)
